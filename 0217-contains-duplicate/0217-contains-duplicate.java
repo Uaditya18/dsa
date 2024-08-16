@@ -8,6 +8,7 @@ class Solution {
             }
             hash.add(num);
         }
+        System.gc();
         return false;
     }
 }
