@@ -49,4 +49,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/Uaditya18/dsa/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Uaditya18/dsa/tree/master/0283-move-zeroes) |
+## Tree
+|  |
+| ------- |
+| [0784-insert-into-a-binary-search-tree](https://github.com/Uaditya18/dsa/tree/master/0784-insert-into-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0784-insert-into-a-binary-search-tree](https://github.com/Uaditya18/dsa/tree/master/0784-insert-into-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0784-insert-into-a-binary-search-tree](https://github.com/Uaditya18/dsa/tree/master/0784-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
