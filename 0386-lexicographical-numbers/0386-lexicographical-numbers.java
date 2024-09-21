@@ -14,7 +14,14 @@ class Solution {
         result.add(curr);
 
         for(int i =0;i<=9;i++){
-            dfsForResult(curr*10+i,n,result);
+            int nextcurr = curr*10+i;
+            if(curr<=n){
+                dfsForResult(nextcurr,n,result);
+            }
+            else{
+                break;
+            }
+            
         }
     }
 }
