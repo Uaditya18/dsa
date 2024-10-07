@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Uaditya18/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Uaditya18/dsa/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Uaditya18/dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/Uaditya18/dsa/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Uaditya18/dsa/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Uaditya18/dsa/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Uaditya18/dsa/tree/master/0238-product-of-array-except-self) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Uaditya18/dsa/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Uaditya18/dsa/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Uaditya18/dsa/tree/master/0217-contains-duplicate) |
 ## Dynamic Programming
 |  |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Uaditya18/dsa/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Uaditya18/dsa/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Uaditya18/dsa/tree/master/0217-contains-duplicate) |
 ## Prefix Sum
 |  |
@@ -41,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Uaditya18/dsa/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Uaditya18/dsa/tree/master/0169-majority-element) |
 ## Binary Search
 |  |
 | ------- |
@@ -81,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Uaditya18/dsa/tree/master/0386-lexicographical-numbers) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Uaditya18/dsa/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
