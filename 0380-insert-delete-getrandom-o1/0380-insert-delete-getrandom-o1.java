@@ -2,6 +2,7 @@ class RandomizedSet {
 
     private ArrayList<Integer> list;
     private HashMap<Integer,Integer> hash;
+    Random rand ;
 
 
     public boolean search(int val){
@@ -11,6 +12,7 @@ class RandomizedSet {
     public RandomizedSet() {
         list = new ArrayList<>();
         hash = new HashMap<>();
+        rand = new Random();
     }
     
     public boolean insert(int val) {
@@ -34,7 +36,7 @@ class RandomizedSet {
     }
     
     public int getRandom() {
-        Random rand = new Random();
+        
         return list.get(rand.nextInt(list.size()));
     }
 }
