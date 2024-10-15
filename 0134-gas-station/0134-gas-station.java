@@ -1,32 +1,21 @@
 class Solution {
     public int canCompleteCircuit(int[] gas, int[] cost) {
-        int result = -1;
+        int totalGas = 0, totalCost = 0;
+        int currentGas = 0, start = 0;
 
-        for(int i=0;i<gas.length;i++){
-            if(gas[i]>cost[i]){
-                result = findPath(gas, cost, i);
-                if(result>-1) return result;
+        for (int i = 0; i < gas.length; i++) {
+            totalGas += gas[i];
+            totalCost += cost[i];
+            currentGas += gas[i] - cost[i];
+
+            // If currentGas is negative, reset start index to i + 1
+            if (currentGas < 0) {
+                start = i + 1;
+                currentGas = 0;
             }
         }
-        if(gas.length==1 && gas[0]==cost[0]){
-            return 0;
-        }
 
-        return -1;
-    }
-
-    public int findPath(int[] gas, int[] cost, int i){
-        int totalGas = gas[i];
-        int totalCost = cost[i];
-        int tank = totalGas;
-        int j = (i+1) % gas.length;
-        while(j!=i && tank>=totalCost){
-            
-            tank = tank - totalCost + gas[j];
-            totalCost = cost[j];
-            j = (j+1)%gas.length;
-        }
-
-        return j==i && tank>=totalCost? i : -1;
+        // Check if there is enough gas to cover the total cost
+        return totalGas >= totalCost ? start : -1;
     }
 }
