@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Uaditya18/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Uaditya18/dsa/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Uaditya18/dsa/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/Uaditya18/dsa/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/Uaditya18/dsa/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Uaditya18/dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Uaditya18/dsa/tree/master/0169-majority-element) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Uaditya18/dsa/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Uaditya18/dsa/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Uaditya18/dsa/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/Uaditya18/dsa/tree/master/0135-candy) |
 ## Counting Sort
 |  |
 | ------- |
