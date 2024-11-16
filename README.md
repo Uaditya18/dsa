@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/Uaditya18/dsa/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Uaditya18/dsa/tree/master/0380-insert-delete-getrandom-o1) |
+| [0795-k-th-symbol-in-grammar](https://github.com/Uaditya18/dsa/tree/master/0795-k-th-symbol-in-grammar) |
 ## Two Pointers
 |  |
 | ------- |
@@ -122,4 +123,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Uaditya18/dsa/tree/master/0380-insert-delete-getrandom-o1) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0795-k-th-symbol-in-grammar](https://github.com/Uaditya18/dsa/tree/master/0795-k-th-symbol-in-grammar) |
+## Recursion
+|  |
+| ------- |
+| [0795-k-th-symbol-in-grammar](https://github.com/Uaditya18/dsa/tree/master/0795-k-th-symbol-in-grammar) |
 <!---LeetCode Topics End-->
