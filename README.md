@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Uaditya18/dsa/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Uaditya18/dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Uaditya18/dsa/tree/master/0027-remove-element) |
+| [0040-combination-sum-ii](https://github.com/Uaditya18/dsa/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/Uaditya18/dsa/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Uaditya18/dsa/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Uaditya18/dsa/tree/master/0055-jump-game) |
@@ -131,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0795-k-th-symbol-in-grammar](https://github.com/Uaditya18/dsa/tree/master/0795-k-th-symbol-in-grammar) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/Uaditya18/dsa/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
