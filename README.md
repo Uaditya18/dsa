@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Uaditya18/dsa/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Uaditya18/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Uaditya18/dsa/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0131-palindrome-partitioning](https://github.com/Uaditya18/dsa/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Uaditya18/dsa/tree/master/0152-maximum-product-subarray) |
 ## Sorting
 |  |
@@ -136,4 +137,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Uaditya18/dsa/tree/master/0040-combination-sum-ii) |
+| [0131-palindrome-partitioning](https://github.com/Uaditya18/dsa/tree/master/0131-palindrome-partitioning) |
+## String
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/Uaditya18/dsa/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
