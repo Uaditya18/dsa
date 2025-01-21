@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Uaditya18/dsa/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Uaditya18/dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Uaditya18/dsa/tree/master/0027-remove-element) |
+| [0037-sudoku-solver](https://github.com/Uaditya18/dsa/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/Uaditya18/dsa/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/Uaditya18/dsa/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Uaditya18/dsa/tree/master/0053-maximum-subarray) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Uaditya18/dsa/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/Uaditya18/dsa/tree/master/0037-sudoku-solver) |
 | [0169-majority-element](https://github.com/Uaditya18/dsa/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Uaditya18/dsa/tree/master/0217-contains-duplicate) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Uaditya18/dsa/tree/master/0380-insert-delete-getrandom-o1) |
@@ -136,10 +138,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Uaditya18/dsa/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/Uaditya18/dsa/tree/master/0040-combination-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/Uaditya18/dsa/tree/master/0131-palindrome-partitioning) |
 ## String
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/Uaditya18/dsa/tree/master/0131-palindrome-partitioning) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Uaditya18/dsa/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
