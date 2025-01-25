@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Uaditya18/dsa/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Uaditya18/dsa/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Uaditya18/dsa/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Uaditya18/dsa/tree/master/0287-find-the-duplicate-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Uaditya18/dsa/tree/master/0380-insert-delete-getrandom-o1) |
 ## Hash Table
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Uaditya18/dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/Uaditya18/dsa/tree/master/0287-find-the-duplicate-number) |
 ## Math
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Uaditya18/dsa/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Uaditya18/dsa/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Uaditya18/dsa/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Uaditya18/dsa/tree/master/0287-find-the-duplicate-number) |
 ## Tree
 |  |
 | ------- |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Uaditya18/dsa/tree/master/0287-find-the-duplicate-number) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Uaditya18/dsa/tree/master/0795-k-th-symbol-in-grammar) |
 ## Recursion
 |  |
