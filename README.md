@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Uaditya18/dsa/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Uaditya18/dsa/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Uaditya18/dsa/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Uaditya18/dsa/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Uaditya18/dsa/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Uaditya18/dsa/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Uaditya18/dsa/tree/master/0283-move-zeroes) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Uaditya18/dsa/tree/master/0037-sudoku-solver) |
 | [0169-majority-element](https://github.com/Uaditya18/dsa/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Uaditya18/dsa/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Uaditya18/dsa/tree/master/0229-majority-element-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Uaditya18/dsa/tree/master/0380-insert-delete-getrandom-o1) |
 ## Dynamic Programming
 |  |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Uaditya18/dsa/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Uaditya18/dsa/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Uaditya18/dsa/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Uaditya18/dsa/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/Uaditya18/dsa/tree/master/0274-h-index) |
 ## Prefix Sum
 |  |
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Uaditya18/dsa/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Uaditya18/dsa/tree/master/0229-majority-element-ii) |
 ## Greedy
 |  |
 | ------- |
